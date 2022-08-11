@@ -1,0 +1,7 @@
+
+
+--Copy the full thing so it won't make any errors, if not then you will have issues.--
+_G.FemKess = "FemWare On Top"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/RobloxThings/main/FemWare0", true))()
+
